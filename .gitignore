@@ -1,0 +1,22 @@
+# Java
+*.class
+target/
+.idea/
+*.iml
+
+# Spring
+*.log
+
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+.next/
+out/
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
